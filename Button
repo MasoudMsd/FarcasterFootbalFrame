@@ -1,4 +1,23 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>انتخاب تیم فوتبال</title>
 
+  <style>
+    body {
+      font-family: "Vazirmatn", Arial, sans-serif;
+      background-color: #f9fafb;
+      text-align: center;
+      margin: 0;
+      padding: 50px 10px;
+    }
+
+    h1 {
+      color: #222;
+      margin-bottom: 10px;
+    }
 
     p {
       color: #555;
